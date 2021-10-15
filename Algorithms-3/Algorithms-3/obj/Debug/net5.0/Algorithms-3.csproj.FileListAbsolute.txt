@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\bin\Debug\net5.0\Algorithms-3.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\bin\Debug\net5.0\Algorithms-3.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\bin\Debug\net5.0\Algorithms-3.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\bin\Debug\net5.0\Algorithms-3.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\bin\Debug\net5.0\Algorithms-3.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\bin\Debug\net5.0\ref\Algorithms-3.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\bin\Debug\net5.0\Algorithms-3.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\obj\Debug\net5.0\Algorithms-3.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\obj\Debug\net5.0\Algorithms-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\obj\Debug\net5.0\Algorithms-3.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\obj\Debug\net5.0\Algorithms-3.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\obj\Debug\net5.0\Algorithms-3.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\obj\Debug\net5.0\Algorithms-3.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\obj\Debug\net5.0\ref\Algorithms-3.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\obj\Debug\net5.0\Algorithms-3.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\7.15.10.2021-Arrays, Object\Codes\Algorithms-3\Algorithms-3\obj\Debug\net5.0\Algorithms-3.genruntimeconfig.cache
